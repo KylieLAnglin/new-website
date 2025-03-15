@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
+      <title>An example journal article 1</title>
       <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/journal-article/</guid>
@@ -29,7 +29,19 @@
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;add-the-publications-full-text-or-supplementary-notes-here-you-can-use-rich-formatting-such-as-including-code-math-and-images&#34;&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/h2&gt;
+&lt;p&gt;title: &amp;ldquo;An example journal article 1&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;li&gt;Robert Ford
+author_notes:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Equal contribution&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Equal contribution&amp;rdquo;
+date: &amp;ldquo;2015-09-01T00:00:00Z&amp;rdquo;
+doi: &amp;quot;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 </description>
     </item>
     
