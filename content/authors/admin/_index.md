@@ -15,7 +15,7 @@ highlight_name: true
 # Role/position/tagline
 role: Assistant Professor
 # Short bio (displayed in user profile at end of posts)
-bio: "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
+# bio: "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
 
 
 # Organizations/Affiliations to display in Biography blox
@@ -146,17 +146,28 @@ education:
 
 ## About Me
 
-I am an assistant professor of research methods, measurement, and evaluation currently at the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies.
+I am an assistant professor of research methods, measurement, and evaluation currently at the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies.  I specialize in leveraging AI to extract insights from complex or hard-to-access data, including unstructured data on program implementation (like transcripts and participant writing) . In doing so, I address critical resource constraints in education research while simultaneously addressing  risks in the use and interpretation of AI output.
 
-My research interests center on identifying effective educational programs and policies and using data science tools such as natural language processing to better understand the implementation of educational programs at the local level, at scale.
 
 **I am currently taking on PhD students. Please email me and/or [apply](https://rmme.education.uconn.edu/how-to-apply-m-a-and-ph-d-programs/) if you are interested.**
 
 
-In recent research, I developed scalable methods for [collecting local policy data](https://doi.org/10.1080/19345747.2019.1654576) from school district websites and used that data to estimate the impact of wide-scale [deregulation](https://doi.org/10.3102/01623737231176509) of school districts. I have also developed methods for [measuring fidelity](https://doi.org/10.1177/23328584211028615) in standardized educational interventions and for improving [training data](https://doi.org/10.6339/22-JDS1054) used to train machine learning classifiers. You can see a complete list of my publications [here](https://scholar.google.com/citations?user=vowl-BoAAAAJ&hl=en).
+In recent research, I have:
+
+* Developed a research [protocol](https://doi.org/10.1177/23328584241303495) for increasing the validity of machine learning applications in education research
+
+* Provided an [overview](https://doi.org/10.3102/10769986241279927) of zero and few-shot classification, with a focus on validitation
+
+* Developed scalable methods for [collecting local policy data](https://doi.org/10.1080/19345747.2019.1654576) from school district websites and used that data to estimate the impact of wide-scale [deregulation](https://doi.org/10.3102/01623737231176509).
+
+* Developed methods for [measuring fidelity](https://doi.org/10.1177/23328584211028615) in standardized educational interventions
+
+* Developed methods for improving human labeled [training data](https://doi.org/10.6339/22-JDS1054) for machine learning classifiers.
+
+You can see a complete list of my publications [here](https://scholar.google.com/citations?user=vowl-BoAAAAJ&hl=en).
 
 
-I became interested in evaluation and implementation when teaching middle schoolers. As a teacher, I wanted to know what programs would work for *my* students and *our* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify causally valid program impacts while paying attention to variation in implementation, ensuring that average outcomes do not hide inequalities.
+I became interested in evaluation and implementation when teaching middle schoolers. As a teacher, I wanted to know what programs would work for *my* students and *our* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify valid program impacts while paying attention to variation in implementation and outcomes.
 
 ## Recent Publications
 Anglin, Kylie. “Addressing Threats to Validity in Supervised Machine Learning: A Framework and Best Practices for Education Researchers.” AERA Open 10 (January 1, 2024): 1–21. [https://doi.org/10.1177/23328584241303495](https://doi.org/10.1177/23328584241303495).
