@@ -1,5 +1,6 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
+
 The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
@@ -48,3 +49,5 @@ We're an open source movement that depends on your support to stay online and th
 - [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
 - [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
 <!--END_SECTION:news-->
+https://docs.hugoblox.com/getting-started/install-hugo/
+hugo server -D # preview
