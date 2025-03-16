@@ -6,7 +6,10 @@
 main:
   - name: Bio
     url: /
-    weight: 40
+    weight: 1
+  - name: "CV"
+    url: "/CV.pdf"
+    weight: 2
   # - name: Recent Publications
   #   url: recentpubs/
   #   weight: 50
