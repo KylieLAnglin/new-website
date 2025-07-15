@@ -149,8 +149,6 @@ education:
 I am an assistant professor of research methods, measurement, and evaluation currently at the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies.  I specialize in leveraging AI to extract insights from complex or hard-to-access data, including unstructured data on program implementation (like transcripts and participant writing) . In doing so, I address critical resource constraints in education research while simultaneously addressing  risks in the use and interpretation of AI output.
 
 
-**I am currently taking on PhD students. Please email me and/or [apply](https://rmme.education.uconn.edu/how-to-apply-m-a-and-ph-d-programs/) if you are interested.**
-
 
 In recent research, I have:
 
