@@ -52,22 +52,8 @@ education:
     institution: University of Virginia
     date_start: 2016
     date_end: 2021
-    summary: NAEd Spencer Dissertation Fellow
+    summary: NAEd/Spencer Dissertation Fellow; Dissertation Title: Improving Impact Evaluations with Low-Cost, Automated, and Scalable Tools for Implementation Research
 
-  - area: Masters in Public Policy, 2018
-    institution: University of Virginia
-    date_start: 2016-01-01
-    date_end: 2018-12-31
-
-  - area: Post-Baccalearate in Mathematics, 2015
-    institution: Northwestern University
-    # date_start: 2016-01-01
-    date_end: 2015-12-31
-
-  - area: BA in Political Science, 2013
-    institution: Southwestern University University
-    # date_start: 2016-01-01
-    date_end: 2016-12-31
 
 # work:
 #   - position: Assistant Professor
@@ -146,30 +132,26 @@ education:
 
 ## About Me
 
-I am an assistant professor of research methods, measurement, and evaluation currently at the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies.  I specialize in leveraging AI to extract insights from complex or hard-to-access data, including unstructured data on program implementation (like transcripts and participant writing) . In doing so, I address critical resource constraints in education research while simultaneously addressing  risks in the use and interpretation of AI output.
-
-
+I am an assistant professor of research methods, measurement, and evaluation in the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies. I specialize in leveraging AI to extract insights from complex or hard-to-access data, including unstructured data on program implementation (like transcripts and participant writing). In doing so, I address critical resource constraints in education research while simultaneously addressing risks in the use and interpretation of AI output.
 
 In recent research, I have:
 
 * Developed a research [protocol](https://doi.org/10.1177/23328584241303495) for increasing the validity of machine learning applications in education research
 
-* Provided an [overview](https://doi.org/10.3102/10769986241279927) of zero and few-shot classification, with a focus on validitation
+* Developed scalable methods for [collecting local policy data](https://doi.org/10.1080/19345747.2019.1654576) from school district websites and used that data to estimate the impact of wide-scale [deregulation](https://doi.org/10.3102/01623737231176509)
 
-* Developed scalable methods for [collecting local policy data](https://doi.org/10.1080/19345747.2019.1654576) from school district websites and used that data to estimate the impact of wide-scale [deregulation](https://doi.org/10.3102/01623737231176509).
+* Used large language models and natural language processing to analyze over 40,000 school board meeting [minutes](https://edworkingpapers.com/ai25-1175) to assess the frequency of race-related discussions
+
+* Demonstrated an effective [approach](https://arxiv.org/abs/2512.03818) to maximizing performance when using large language models to identify complex constructs in psychology
+
+* Considered key validity concerns in the application of large language models to the [Narrative Policy Framework](https://doi.org/10.1111/psj.70045Digital) 
+
+* Provided a [tutorial](https://doi.org/10.3102/10769986241279927) on zero and few-shot classification, with a focus on validitation
 
 * Developed methods for [measuring fidelity](https://doi.org/10.1177/23328584211028615) in standardized educational interventions
 
-* Developed methods for improving human labeled [training data](https://doi.org/10.6339/22-JDS1054) for machine learning classifiers.
+* Evaluated the causal validity of difference-in-differences and comparative interrupted [time series designs](https://doi.org/10.1177/0193841X231167672), with an emphasis on the usefulness of common validity checks
+
 
 You can see a complete list of my publications [here](https://scholar.google.com/citations?user=vowl-BoAAAAJ&hl=en).
 
-
-I became interested in evaluation and implementation when teaching middle schoolers. As a teacher, I wanted to know what programs would work for *my* students and *our* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify valid program impacts while paying attention to variation in implementation and outcomes.
-
-## Recent Publications
-Anglin, Kylie. “Addressing Threats to Validity in Supervised Machine Learning: A Framework and Best Practices for Education Researchers.” AERA Open 10 (January 1, 2024): 1–21. [https://doi.org/10.1177/23328584241303495](https://doi.org/10.1177/23328584241303495).
-
-Anglin, Kylie L., and Claudia Ventura. “Automatic Text Classification with Large Language Models: A Review of Openai for Zero-and Few-Shot Classification.” Journal of Educational and Behavioral Statistics, 2024, 1–23. [https://doi.org/10.3102/10769986241279927](https://doi.org/10.3102/10769986241279927).
-
-Anglin, Kylie. “The Role of State Education Regulation: Evidence from the Texas Districts of Innovation Statute.” Educational Evaluation and Policy Analysis 46, no. 2 (2024): 534–54. [https://doi.org/10.3102/01623737231176509](https://doi.org/10.3102/01623737231176509).
