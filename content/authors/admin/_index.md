@@ -52,7 +52,7 @@ education:
     institution: University of Virginia
     date_start: 2016
     date_end: 2021
-    summary: NAEd/Spencer Dissertation Fellow; Dissertation Title: Improving Impact Evaluations with Low-Cost, Automated, and Scalable Tools for Implementation Research
+    summary: "NAEd/Spencer Dissertation Fellow; Dissertation Title: Improving Impact Evaluations with Low-Cost, Automated, and Scalable Tools for Implementation Research"
 
 
 # work:
