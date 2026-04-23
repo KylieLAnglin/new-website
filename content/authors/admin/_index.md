@@ -144,9 +144,9 @@ In recent research, I have:
 
 * Demonstrated an effective [approach](https://arxiv.org/abs/2512.03818) to maximizing performance when using large language models to identify complex constructs in psychology
 
-* Considered key validity concerns in the application of large language models to the [Narrative Policy Framework](https://doi.org/10.1111/psj.70045Digital) 
+* Considered key validity concerns in the application of large language models to the [Narrative Policy Framework](https://doi.org/10.1111/psj.70045) 
 
-* Provided a [tutorial](https://doi.org/10.3102/10769986241279927) on zero and few-shot classification, with a focus on validitation
+* Provided a [tutorial](https://doi.org/10.3102/10769986241279927) on zero and few-shot classification, with a focus on validation
 
 * Developed methods for [measuring fidelity](https://doi.org/10.1177/23328584211028615) in standardized educational interventions
 
